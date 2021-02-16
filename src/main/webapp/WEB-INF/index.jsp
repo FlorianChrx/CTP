@@ -1,24 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
+    <head>
+        <meta content="WebApp de CTP, réalisé en LP DA2I" name="description"/>
+        <meta charset="utf-8">
+        <title>CTP</title>
+        <meta content="width=device-width, initial-scale=1" name="viewport">
+        <meta content="Florian Chiraux" name="author">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
 
-<head>
-  <meta name="description" content="Webpage description goes here" />
-  <meta charset="utf-8">
-  <title>Change_me</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="author" content="">
-  <link rel="stylesheet" href="css/style.css">
-  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
-</head>
-
-<body>
-
-<div class="container">
-
-</div>
-
-<script>
-</script>
-
-</body>
+    <body>
+        <div class="container">
+            ${test}
+        </div>
+    </body>
 </html>

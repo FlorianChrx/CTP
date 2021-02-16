@@ -9,6 +9,7 @@ public class MainController {
 
     @GetMapping(path = "/")
     public String home(Model model) {
+        model.addAttribute("test", "Hello bitches");
         return "index";
     }
 
