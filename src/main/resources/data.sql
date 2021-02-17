@@ -1,0 +1,10 @@
+insert into lycee(nom,codepostal,commune) values ('Gaston Berger', '59000', 'Lille');
+insert into lycee(nom,codepostal,commune) values ('Jean Bart', '59140', 'Dunkerque');
+insert into lycee(nom,codepostal,commune) values ('St Rémi', '59170' ,'Roubaix');
+insert into lycee(nom,codepostal,commune) values ('Henri Wallon', '59300', 'Valenciennes');
+insert into lycee(nom,codepostal,commune) values ('Dampierre', '59300', 'Valenciennes');
+insert into lycee(nom,codepostal,commune) values ('Guy Mollet', '62000', 'Arras');
+insert into lycee(nom,codepostal,commune) values ('André Malraux', '62400', 'Bethune');
+insert into lycee(nom,codepostal,commune) values ('Ozanam', '59000', 'Lille');
+insert into lycee(nom,codepostal,commune) values ('Colbert', '59200', 'Tourcoing');
+insert into lycee(nom,codepostal,commune) values ('Edmond Labbé', '59500', 'Douai');
